@@ -1,0 +1,20 @@
+# Base requirements for Level 1
+Flask==3.0.3
+flask-cors==5.0.0
+yfinance==0.2.52
+pandas==2.2.2
+plotly==5.24.1
+
+# Future levels (uncomment/add as you progress)
+# numpy==2.1.1           # Level 2
+# ta==0.11.0             # Technical Analysis indicators (optional)
+# scikit-learn==1.5.2    # Level 3
+# xgboost==2.1.1         # Level 3 optional
+# torch==2.4.1           # Level 4 (or tensorflow)
+# tensorflow==2.17.0     # Level 4 alternative
+# langchain==0.2.15      # Level 5
+# openai==1.51.0         # Level 5
+# cvxpy==1.5.3           # Level 6
+# gymnasium==0.29.1      # Level 6 RL env (optional)
+# psycopg[binary]==3.2.3 # Level 7 (PostgreSQL)
+# pymongo==4.10.1        # Level 7 (MongoDB)
